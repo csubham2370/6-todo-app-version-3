@@ -1,0 +1,23 @@
+
+
+input {
+
+  width: 98% !important;
+}
+
+.itemsContainer{
+
+  text-align: left;
+}
+
+.kgRow{
+
+  margin: 7px 5px;
+  padding: 5px;
+}
+
+.kgButton{
+
+  min-width: 80px;
+  margin-right: 15px;
+}
